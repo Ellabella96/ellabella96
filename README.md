@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Ellabella96/ellabella96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Rukeme
+DevOps & Cloud Engineer with 4+ years of experience automating infrastructure, optimizing pipelines, and deploying secure cloud solutions on AWS & GCP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack:
+Terraform · Kubernetes · GitHub Actions · Jenkins · Docker · GCP · AWS · Helm · Prometheus · Linux
+
+📌 Featured Projects:
+- **CI/CD Pipeline with GitHub Actions + Terraform**: Fully automated pipeline with staging/prod deployment
+- **Kubernetes Monitoring Stack**: Prometheus, Grafana, and Alertmanager setup
+
+
+
+
